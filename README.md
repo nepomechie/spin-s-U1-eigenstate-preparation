@@ -1,5 +1,5 @@
 # Spin-s-U1-eigenstate-preparation
-Cirq code for preparing arbitrary spin-s U(1)-eigenstates
+Cirq code for preparing arbitrary spin-s U(1)-eigenstates (s=1/2, 1, 3/2, ...)
 
 As examples, the preparation of the following states is considered:
 
