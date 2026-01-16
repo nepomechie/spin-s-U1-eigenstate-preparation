@@ -3,7 +3,7 @@ Cirq code for preparing arbitrary spin-s U(1)-eigenstates (s=1/2, 1, 3/2, ...)
 
 As examples, the preparation of the following states is considered:
 
-AKLT ground state (PBC)
+$\bullet$ AKLT ground state (PBC)
 
 spin-s Dicke states
 
