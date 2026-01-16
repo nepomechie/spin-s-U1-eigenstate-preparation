@@ -1,13 +1,13 @@
-# Spin-$s$ $U(1)$-eigenstate preparation
-Cirq code for preparing arbitrary spin-$s$ $U(1)$-eigenstates ($s$=1/2, 1, 3/2, ...)
+# Spin-s $U(1)$-eigenstate preparation
+Cirq code for preparing arbitrary spin-s $U(1)$-eigenstates ($s$=1/2, 1, 3/2, ...)
 
 As examples, the preparation of the following states is considered:
 
 $\bullet$ AKLT ground state (PBC)
 
-$\bullet$ spin-$s$ Dicke states
+$\bullet$ spin-s Dicke states
 
-$\bullet$ spin-$s$ Bethe states (eigenstates of integrable spin-s XXX Hamiltonians with PBC)
+$\bullet$ spin-s Bethe states (eigenstates of integrable spin-s XXX Hamiltonians with PBC)
 
 The preparation of $U(1)$-eigenstates with random real or complex amplitudes is also illustrated.
 
