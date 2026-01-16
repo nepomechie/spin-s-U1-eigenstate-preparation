@@ -10,3 +10,5 @@ spin-s Dicke states
 spin-s Bethe states (eigenstates of integrable spin-s XXX Hamiltonians with PBC)
 
 The preparation of U(1)-eigenstates with random real or complex amplitudes is also illustrated.
+
+This code can be run on Google colab  ( https://colab.google/ ) or locally, using python (3.12.1) and cirq (1.5.0)
