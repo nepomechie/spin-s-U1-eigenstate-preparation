@@ -1,4 +1,4 @@
-# Spin-s $U(1)$-eigenstate preparation - arXiv:2601.14513
+# Spin-s $U(1)$-eigenstate preparation - (https://arxiv.org/abs/2601.14513)
 
 Cirq code for preparing arbitrary spin-s $U(1)$-eigenstates ($s$=1/2, 1, 3/2, ...)
 
